@@ -1,0 +1,5 @@
+/*
+  X-Frame-Options: ALLOW-FROM https://your-parent-app.netlify.app
+  Access-Control-Allow-Origin: https://your-parent-app.netlify.app
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type

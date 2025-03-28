@@ -1,0 +1,6 @@
+/*
+  X-Frame-Options: ALLOW-FROM https://your-child1-app.netlify.app
+  X-Frame-Options: ALLOW-FROM https://your-child2-app.netlify.app
+  X-Frame-Options: ALLOW-FROM https://your-child3-app.netlify.app
+  Access-Control-Allow-Origin: *
+  Content-Security-Policy: frame-ancestors https://your-child1-app.netlify.app https://your-child2-app.netlify.app https://your-child3-app.netlify.app
